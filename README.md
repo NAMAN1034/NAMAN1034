@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning how create a neural interface and some machine learning and how to synchronise nano-electrodes with neural interfaces
 - 💞️ I’m looking to collaborate on any projects involving computational neuroscience
 - 📫 How to reach me: email me at s2gnaman@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: My name is a palindrome!
